@@ -1,2 +1,4 @@
-useinsider.com TDD QA test Selenium task 3
+useinsider.com 
+QA test Selenium task 3
+TDD TestNG JUnit
 
